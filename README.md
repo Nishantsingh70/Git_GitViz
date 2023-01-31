@@ -1,6 +1,8 @@
 GitViz
 ======
 
+https://github.com/Readify/GitViz/releases
+
 > Psst, hey... are you looking for a .NET Core 3 version? Check out the `netcore` branch. Contributions and PRs on that branch are very welcome!
 
 ### Type commands. See their effect in real time. Perfect rendering for presentations.
